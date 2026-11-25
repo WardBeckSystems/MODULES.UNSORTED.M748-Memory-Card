@@ -1,5 +1,5 @@
 # 1971 - M748 - M748 MEMORY CARD SCHEMATIC - ISS 2.jpg
-Wiki page: [M748](../../../PAGES/M748.md)
+Wiki page: [M748](../../../../PAGES/M748.md)
 
 
 - **Year:** 1971 (title block date)
@@ -139,7 +139,7 @@ Rv (
 
 ```json
 {
- "file": "Modules/UNSORTED/M748/1971 - M748 - M748 MEMORY CARD SCHEMATIC - ISS 2.jpg",
+ "file": "Modules/UNSORTED/M748/SCHEMATICS/1971 - M748 - M748 MEMORY CARD SCHEMATIC - ISS 2.jpg",
  "sha256": "f43e2816e5206b2f4e59fbbe70f2607e86e9091b92878ef24d745f7a5c7b4c5e",
  "kind": "module",
  "models": [
