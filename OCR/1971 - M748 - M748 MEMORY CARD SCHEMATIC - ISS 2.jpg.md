@@ -19,6 +19,20 @@ Wiki page: [M748](../../../../PAGES/M748.md)
 - **Size:** 2,145,975 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** schematic, size B (assumed) 432 × 131 mm, 2000 × 605 px traced (0.216 mm/px)
+- **Ink extent:** 0–432 mm across, 0–130 mm up
+- **Outlines:** line 1,408 rings, 11,499 straight (20,344 mm) / 2,239 curved (2,805 mm); text 74 rings, 326 straight (302 mm) / 138 curved (171 mm)
+- **Centre lines:** 10,264 paths (210 closed); straight 11,634 mm, curved 373 mm; horizontal 5,539 mm, vertical 2,925 mm, diagonal 3,170 mm
+- **Circles and arcs:** 5 circles, 64 arcs; largest r 0.8 @ (324.7, 119.8), r 0.8 @ (406.6, 51.4), r 0.8 @ (92.6, 81.3), r 0.7 @ (53.1, 66.9)
+- **Closed boxes:** 31
+- **Dots (junctions):** 3
+- **Words (OCR):** 15 in 13 lines: CTL · CTe · 4io · Cell · CT · ETLE · Vevory C ELL · MFMORY CFLI · CeLL · CeL · 7LO · 748
+- **Wiring (first pass):** 124 connected wire groups from 1,130 runs, 3 dotted junctions; labelled ends: 41 mm → CT; 34 mm → CeL; 30 mm → ETLE; 30 mm → CTe; 29 mm → CTL
+
+Every curve, box, word and wire group: [1971 - M748 - M748 MEMORY CARD SCHEMATIC - ISS 2 (traced).json](../SCHEMATICS/1971%20-%20M748%20-%20M748%20MEMORY%20CARD%20SCHEMATIC%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1971 - M748 - M748 MEMORY CARD SCHEMATIC - ISS 2 (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 9 words corrected)
